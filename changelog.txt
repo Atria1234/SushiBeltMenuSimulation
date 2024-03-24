@@ -1,0 +1,11 @@
+﻿---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 23.3.2024
+  Features:
+    - Created mod settings to enable straight, diagonal and circular menu simulations.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2.2.2024
+  Features:
+    - Created single sushi belt menu simulation.
